@@ -12,3 +12,10 @@ header {
     padding: 0;
     border-color: #000;
 }
+.header-text h1 {
+    font-size: 2.2rem;
+}
+.my-answer {
+    background-color: rgba(111, 175, 255, 0.5);
+    padding: 2rem 1rem;
+}
