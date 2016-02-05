@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    color: #000;
+}
+header {
+    background-color: #b82d5f;
+    color: #fff;
+}
+.header-logo {
+    display: block;
+    height: 10rem;
+    padding: 0;
+    border-color: #000;
+}
